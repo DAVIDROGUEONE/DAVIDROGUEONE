@@ -1,5 +1,5 @@
 ## Olá, Eu sou David Castro!
-
+Sou Analista de Negócios, atualmente caminhando e aprimorando na estrada da programação, meu pequeno PADWAN!
 
 ## 🔥 Habilidades em Formação:
 
