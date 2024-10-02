@@ -9,6 +9,7 @@ Sou Analista de Negócios, e atualmente caminhando e aprimorando na estrada da p
   <img align="center" alt="davi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="davi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   </div>
+  
 ## 🌐 Conecte-se Comigo
 Estou sempre aberto a novas conexões e colaborações!
 <div> 
